@@ -713,7 +713,7 @@ set through the mapping argument, the default value will be used.
              asList(new HashMap() {{ put("name", "New Partner"); }})
          ));
 
-   Result:
+   Result:   
 
    .. code-block:: json
 
